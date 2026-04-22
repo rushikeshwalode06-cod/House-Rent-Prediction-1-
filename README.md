@@ -3,7 +3,8 @@
 House Rent Prediction is a machine learning project that estimates rental prices based on features like location, size, furnishing. It uses regression algorithms to analyze data and provide accurate rent predictions, helping users make informed housing decisions.
 
 # 🏠 House Rent Prediction using Machine Learning
-##📌 Overview
+
+## 📌 Overview
 
 This project predicts house rent prices based on various features such as location, size, number of bedrooms, bathrooms, and other amenities. It uses machine learning algorithms to provide accurate rent estimates, helping users make better housing decisions.
 
