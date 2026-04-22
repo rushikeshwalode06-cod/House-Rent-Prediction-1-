@@ -38,6 +38,8 @@ The dataset includes:
 ## 📊 Machine Learning Models Used
 Linear Regression
 
+![ml](https://github.com/rushikeshwalode06-cod/House-Rent-Prediction/blob/main/House%20Rent%20Price%20Graph.png?raw=true)
+
 ## 📈 Model Performance
 
 The model is evaluated using:
